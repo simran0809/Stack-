@@ -1,2 +1,2 @@
 # Stack-
-A Queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order. 
+A stack is a type of linear data structure that follows a specific order for operations, commonly referred to as Last-In-First-Out (LIFO). 
